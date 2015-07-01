@@ -1,5 +1,5 @@
 {
-    "wallpapers": [
+    "MOAR Red": [
             {
                         "author": "Alex Cruz",
                         "url": "https://raw.githubusercontent.com/RippedThemer/MoarTech/master/Wallpapers/MoarGeek01.png",
@@ -50,6 +50,24 @@
                         "url": "https://raw.githubusercontent.com/RippedThemer/MoarTech/master/Wallpapers/MoarGeek10.png",
                         "name": "MoarGeek10"
                     },
+                    {
+                        "author": "Jay Rod",
+                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG1.png",
+                        "name": "MG1"
+                    },
+                    {
+                        "author": "Jay Rod",
+                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG2.png",
+                        "name": "MG2"
+                    },
+                    {
+                        "author": "Jay Rod",
+                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG3.png",
+                        "name": "MG3"
+                    }
+                    ],
+     "TealTech":
+                    [
                     {
                         "author": "Jay Rod",
                         "url": "https://raw.githubusercontent.com/RippedThemer/MoarTech/master/Wallpapers/Techaeris.png",
@@ -141,21 +159,7 @@
                         "name": "Tech18"
                     },
                     {
-                        "author": "Jay Rod",
-                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG1.png",
-                        "name": "MG1"
-                    },
-                    {
-                        "author": "Jay Rod",
-                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG2.png",
-                        "name": "MG2"
-                    },
-                    {
-                        "author": "Jay Rod",
-                        "url": "https://github.com/RippedThemer/MoarTech/blob/master/Wallpapers/MG3.png",
-                        "name": "MG3"
-
-
+                    
                     }
           ]
 }
